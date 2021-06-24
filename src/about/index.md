@@ -25,4 +25,4 @@ Oh and I lost the game.
 
 {% image "Contract.jpg", "A prize form showing my winnings" %}
 
-{% image "Me-tv.jpg.jpg", "My mom and me" %}
+{% image "Me-tv.jpg", "My mom and me" %}
