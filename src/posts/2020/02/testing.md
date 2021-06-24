@@ -179,7 +179,7 @@ Here, you've entered what the shortcode considers the `src` part ("my-pet-cat.jp
 
 Now, just build your site, and Eleventy Image will do its magic everywhere within your site that you're using the `image` shortcode. For example, here's what the shortcode above could produce:
 
-{% image "my-pet-cat.jpg", "Photo of a cat named Shakespeare sitting on a window sill" %}
+
 
 Of course, you'll want to get a sneak peek by running Eleventy in development mode and viewing your site locally, in case you need to adjust your site's CSS so each resulting image appears as you want.[^sizesInfo]
 
