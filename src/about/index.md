@@ -21,8 +21,8 @@ Here is some trivia about me. When I was 10 we lived in New Jersey. My mother wa
 If you're curious what TV was like in 1979 then be all means watch the [episode](https://vimeo.com/26595314) the password is pa$$word.
 Oh and I lost the game.
 
-{% image "ShowTitle.jpg", "Image of game show opening screen" %}
+{% image "ShowTitle-1.jpg", "Image of game show opening screen" %}
 
-{% image "Contract.jpg", "A prize form showing my winnings" %}
+{% image "Contract-1.jpg", "A prize form showing my winnings" %}
 
-{% image "Me-tv.jpg", "My mom and me" %}
+{% image "Me-tv-1.jpg", "My mom and me" %}
