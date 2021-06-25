@@ -5,7 +5,7 @@ title: "The About Me page"
 # to keep the "Other posts" box from appearing at the bottom of this page, since it uses 
 # the same layout as posts.
 subtitle: "I was once on a gameshow. I lost."
-description: "Just me. I had my 30min of fame when I was 10"
+description: "I had my 15min of fame when I was 10"
 author: Paul Applegate
 date: 2021-06-24T12:22:26Z
 lastmod: 2021-06-24T12:22:26Z
