@@ -12,6 +12,7 @@ exports.render = function (data) {
   const { length } = collections.post
 
   return /*html*/ `
+  <script src="https://kit.fontawesome.com/1fca07cddd.js" crossorigin="anonymous"></script>
   <main class="p-0">
     <div class="pt-6 lg:pt-12 lg:flex w-full mr-auto ml-auto">
       <div class="bg-transparent lg:bg-gradient-to-b lg:from-blue-800 lg:via-blue-400 lg:to-white lg:dark:bg-gradient-to-b lg:dark:from-black lg:dark:via-blue-700 lg:dark:to-black lg:w-5/12 px-8 lg:pl-16 lg:pr-16 pt-16 lg:text-white text-center lg:text-right">
@@ -50,7 +51,7 @@ exports.render = function (data) {
             ${description}
           </p>
         </div>
-          ` 
+          `
         ).join('')}
 
         <p class="font-sans"><a href="/posts/"><strong>All ${length} posts</strong></a> <span class="text-sm"><em>(listed five per page)</em></span></p>
